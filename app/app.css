@@ -1,0 +1,15 @@
+.product{
+	height: 400px;
+}
+.product-image{
+	height: 200px !important;
+	width: 200px !important;
+}
+.rating{
+	display: inline;
+}
+
+.caption{
+	height: 100px;
+	width: 250px;
+}
